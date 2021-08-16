@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\bin\Debug\net5.0\AreaFigureLib.deps.json
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\bin\Debug\net5.0\AreaFigureLib.dll
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\bin\Debug\net5.0\ref\AreaFigureLib.dll
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\bin\Debug\net5.0\AreaFigureLib.pdb
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.dll
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\ref\AreaFigureLib.dll
+C:\Users\Lenovo\source\repos\AreaFigureLib\AreaFigureLib\obj\Debug\net5.0\AreaFigureLib.pdb
